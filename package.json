@@ -1,0 +1,24 @@
+{
+  "name": "tgc-js-dom-practise-set-2",
+  "version": "1.0.0",
+  "description": "There are three sets of practises here!",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.6.3",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunxin-chor/tgc-js-dom-practise-set-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunxin-chor/tgc-js-dom-practise-set-2/issues"
+  },
+  "homepage": "https://github.com/kunxin-chor/tgc-js-dom-practise-set-2#readme"
+}
