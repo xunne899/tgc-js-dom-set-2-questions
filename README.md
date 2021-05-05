@@ -2,6 +2,12 @@
 
 Each folders may contain multiple questions. Each question is in one folder.
 
+## Setup
+
+1. Click on the button that says `Fork`
+
+2. Open with Gitpod
+
 ## Instructions
 
 1. Each folder is one question
