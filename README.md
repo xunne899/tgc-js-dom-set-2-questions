@@ -1,9 +1,6 @@
 # tgc-js-dom-practise-set-2
 
-There are three sets of practises here!
-
-The **basic set** are simple hands-on to demonstrate certain principles, while the **practise_set** are those that ask you to solve specific
-problems using a specific technique. Finally we have the **challenge** sets which will require you to combine different techniques together.
+Each folders may contain multiple questions. Each question is in one folder.
 
 ## Instructions
 
