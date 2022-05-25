@@ -6,7 +6,9 @@ Each folders may contain multiple questions. Each question is in one folder.
 
 1. Click on the button that says `Fork`
 
-2. Open with Gitpod
+2. Open with Gitpod (_npm install_ should be automatically ran for you _
+
+3. If using VSC on your computer, run `npm install` in the terminal
 
 ## Instructions
 
